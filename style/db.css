@@ -1,0 +1,177 @@
+:root {
+	--white-text: #fff;
+	--black-text: #000;
+	--tag-codycolor: #65d179;
+    --tag-codytext: 'Nintendo Gamer';
+	--tag-josephcolor: #ab562c;
+    --tag-josephtext: 'Fortnite Playboy';
+	--tag-falconcolor: #cfcd3a;
+    --tag-falcontext: 'R.O.B. Caretaker';
+	--tag-brandoncolor: #238158;
+    --tag-brandontext: 'The Pro Gamer';
+	--tag-beancolor: #f91010;
+    --tag-beantext: 'CTGP Creator';
+	--tag-genesycolor: #4011fb;
+    --tag-genesytext: 'ACNH.Guide Dev';
+	--tag-pablocolor: #5a10f9;
+    --tag-pablotext: 'CTGP-7 Creator';
+}
+/* Cody's Badge */
+.avatar-1BDn8e[src*="79738050996862976"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--black-text) !important;
+	background: var(--tag-codycolor) !important;
+	content: var(--tag-codytext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="79738050996862976"] + h2.header-23xsNx {
+	content: var(--tag-codytext);
+	color: var(--tag-codycolor) !important;
+}
+    
+/* Joseph's Badge */
+.avatar-1BDn8e[src*="129056956374712320"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--white-text) !important;
+	background: var(--tag-josephcolor) !important;
+	content: var(--tag-josephtext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="129056956374712320"] + h2.header-23xsNx {
+	content: var(--tag-josephtext);
+	color: var(--tag-josephcolor) !important;
+}
+    
+/* Falcon's Badge */
+.avatar-1BDn8e[src*="92816882226176000"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--black-text) !important;
+	background: var(--tag-falconcolor) !important;
+	content: var(--tag-falcontext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="92816882226176000"] + h2.header-23xsNx {
+	content: var(--tag-falcontext);
+	color: var(--tag-falconcolor) !important;
+}
+    
+/* Brandon's Badge */
+.avatar-1BDn8e[src*="83786687636836352"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--black-text) !important;
+	background: var(--tag-brandoncolor) !important;
+	content: var(--tag-brandontext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="83786687636836352"] + h2.header-23xsNx {
+	content: var(--tag-brandontext);
+	color: var(--tag-brandoncolor) !important;
+}
+
+/* Bean's Badge */
+.avatar-1BDn8e[src*="233675688522153985"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--white-text) !important;
+	background: var(--tag-beancolor) !important;
+	content: var(--tag-beantext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="233675688522153985"] + h2.header-23xsNx {
+	content: var(--tag-beantext);
+	color: var(--tag-beancolor) !important;
+}
+
+/* Chadderz's Badge */
+.avatar-1BDn8e[src*="254567795092619264"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--white-text) !important;
+	background: var(--tag-beancolor) !important;
+	content: var(--tag-beantext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="254567795092619264"] + h2.header-23xsNx {
+	content: var(--tag-beantext);
+	color: var(--tag-beancolor) !important;
+}
+
+/* GeneSy's Badge */
+.avatar-1BDn8e[src*="86143599288283136"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--white-text) !important;
+	background: var(--tag-genesycolor) !important;
+	content: var(--tag-genesytext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="86143599288283136"] + h2.header-23xsNx {
+	content: var(--tag-genesytext);
+	color: var(--tag-genesycolor) !important;
+}
+
+/* Pablo's Badge */
+.avatar-1BDn8e[src*="183210046212145152"] + h2 > span.timestamp-3ZCmNB::before {
+	color: var(--white-text) !important;
+	background: var(--tag-pablocolor) !important;
+	content: var(--tag-pablotext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-1BDn8e[src*="183210046212145152"] + h2.header-23xsNx {
+	content: var(--tag-pablotext);
+	color: var(--tag-pablocolor) !important;
+}
