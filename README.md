@@ -8,4 +8,4 @@ Custom badges for discord!
 4. That's it nothing else needs to be done you can return to those pages to update them or check for updates from within the extension. 
 
 ## How to get your own badge
-Simply go to [this form](https://docs.google.com/forms/d/e/1FAIpQLScLsRcSxgOrWvWrjkFUJAusv9yLt87b782Q60booMrv2D8Qvw/viewform) and fill it out!
+Simply go to [this form](https://docs.google.com/forms/d/e/1FAIpQLScLsRcSxgOrWvWrjkFUJAusv9yLt87b782Q60booMrv2D8Qvw/viewform) and fill it out I'll add it when I can!
