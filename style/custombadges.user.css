@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Cody's Custom Discord Badges
 @namespace      github.com/CodysNintendoRoom/Codys-Custom-Discord-Badges
-@version        1.0.0
+@version        1.0.1
 @description    Custom badges for discord!
 @homepageURL https://sites.google.com/view/codymkw/userstyles
 @supportURL https://github.com/CodysNintendoRoom/Codys-Custom-Discord-Badges/issues
@@ -11,4 +11,5 @@
 
 @-moz-document domain("discord.com") {
 @import url('https://codysnintendoroom.github.io/Codys-Custom-Discord-Badges/style/db.css');
+@import url('https://codysnintendoroom.github.io/Codys-Custom-Discord-Badges/style/iconbadge.css');
 }
