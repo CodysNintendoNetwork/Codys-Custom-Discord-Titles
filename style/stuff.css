@@ -1,0 +1,18 @@
+:root {
+	--white-text: #fff;
+	--black-text: #000;
+	--tag-codycolor: #65d179;
+    --tag-codytext: 'Nintendo Gamer';
+	--tag-josephcolor: #ab562c;
+    --tag-josephtext: 'Fortnite Playboy';
+	--tag-falconcolor: #cfcd3a;
+    --tag-falcontext: 'R.O.B. Caretaker';
+	--tag-brandoncolor: #238158;
+    --tag-brandontext: 'The Pro Gamer';
+	--tag-beancolor: #f91010;
+    --tag-beantext: 'CTGP Creator';
+	--tag-genesycolor: #4011fb;
+    --tag-genesytext: 'ACNH.Guide Dev';
+	--tag-pablocolor: #5a10f9;
+    --tag-pablotext: 'CTGP-7 Creator';
+}
