@@ -1,6 +1,8 @@
 # Cody's Custom Discord Badges
 Custom badges for discord!
 
+![](https://github.com/CodysNintendoRoom/Codys-Custom-Discord-Badges/blob/main/image.png?raw=true)
+
 ## How to install
 1. Install Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne),[Firefox](https://addons.mozilla.org/firefox/addon/styl-us/), or [Opera](https://addons.opera.com/en/extensions/details/stylus/). 
 2. [![alt tag](https://img.shields.io/badge/Install%20directly%20with-Stylus-%233daee9?style=for-the-badge)](https://github.com/CodysNintendoRoom/Codys-Custom-Discord-Badges/raw/main/style/custombadges.user.css)
