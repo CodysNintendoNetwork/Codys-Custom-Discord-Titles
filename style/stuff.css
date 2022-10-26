@@ -15,6 +15,8 @@
     --tag-genesytext: 'ACNH.Guide Dev';
 	--tag-pablocolor: #5a10f9;
     --tag-pablotext: 'CTGP-7 Creator';
+	--tag-nfgcolor: #640b75;
+    --tag-nfgtext: 'Nintendo Fan Girl';
 }
 
 /* Cody's Badge */
@@ -175,4 +177,24 @@
 .avatar-2e8lTP[src*="183210046212145152"] + h3.header-2jRmjb {
 	content: var(--tag-pablotext);
 	color: var(--tag-pablocolor) !important;
+}
+
+/* NintendoFanGirl's Badge */
+.avatar-2e8lTP[src*="223651605122121728"] + h3 > span.timestamp-p1Df1m::before {
+	color: var(--white-text) !important;
+	background: var(--tag-nfgcolor) !important;
+	content: var(--tag-nfgtext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-2e8lTP[src*="223651605122121728"] + h3.header-2jRmjb {
+	content: var(--tag-nfgtext);
+	color: var(--tag-nfgcolor) !important;
 }
