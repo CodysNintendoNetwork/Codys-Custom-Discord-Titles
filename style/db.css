@@ -18,7 +18,7 @@
 }
 
 /* Cody's Badge */
-.avatar-22FtUu[src*="79738050996862976"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="79738050996862976"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--black-text) !important;
 	background: var(--tag-codycolor) !important;
 	content: var(--tag-codytext);
@@ -32,13 +32,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="79738050996862976"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="79738050996862976"] + h2.header-2jRmjb {
 	content: var(--tag-codytext);
 	color: var(--tag-codycolor) !important;
 }
     
 /* Joseph's Badge */
-.avatar-22FtUu[src*="129056956374712320"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="129056956374712320"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--white-text) !important;
 	background: var(--tag-josephcolor) !important;
 	content: var(--tag-josephtext);
@@ -52,13 +52,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="129056956374712320"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="129056956374712320"] + h2.header-2jRmjb {
 	content: var(--tag-josephtext);
 	color: var(--tag-josephcolor) !important;
 }
     
 /* Falcon's Badge */
-.avatar-22FtUu[src*="92816882226176000"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="92816882226176000"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--black-text) !important;
 	background: var(--tag-falconcolor) !important;
 	content: var(--tag-falcontext);
@@ -72,13 +72,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="92816882226176000"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="92816882226176000"] + h2.header-2jRmjb {
 	content: var(--tag-falcontext);
 	color: var(--tag-falconcolor) !important;
 }
     
 /* Brandon's Badge */
-.avatar-22FtUu[src*="83786687636836352"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="83786687636836352"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--black-text) !important;
 	background: var(--tag-brandoncolor) !important;
 	content: var(--tag-brandontext);
@@ -92,13 +92,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="83786687636836352"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="83786687636836352"] + h2.header-2jRmjb {
 	content: var(--tag-brandontext);
 	color: var(--tag-brandoncolor) !important;
 }
 
 /* Bean's Badge */
-.avatar-22FtUu[src*="233675688522153985"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="233675688522153985"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--white-text) !important;
 	background: var(--tag-beancolor) !important;
 	content: var(--tag-beantext);
@@ -112,13 +112,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="233675688522153985"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="233675688522153985"] + h2.header-2jRmjb {
 	content: var(--tag-beantext);
 	color: var(--tag-beancolor) !important;
 }
 
 /* Chadderz's Badge */
-.avatar-22FtUu[src*="254567795092619264"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="254567795092619264"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--white-text) !important;
 	background: var(--tag-beancolor) !important;
 	content: var(--tag-beantext);
@@ -132,13 +132,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="254567795092619264"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="254567795092619264"] + h2.header-2jRmjb {
 	content: var(--tag-beantext);
 	color: var(--tag-beancolor) !important;
 }
 
 /* GeneSy's Badge */
-.avatar-22FtUu[src*="86143599288283136"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="86143599288283136"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--white-text) !important;
 	background: var(--tag-genesycolor) !important;
 	content: var(--tag-genesytext);
@@ -152,13 +152,13 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="86143599288283136"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="86143599288283136"] + h2.header-2jRmjb {
 	content: var(--tag-genesytext);
 	color: var(--tag-genesycolor) !important;
 }
 
 /* Pablo's Badge */
-.avatar-22FtUu[src*="183210046212145152"] + h2 > span.timestamp-3ZCmNB::before {
+.avatar-2e8lTP[src*="183210046212145152"] + h2 > span.timestamp-3ZCmNB::before {
 	color: var(--white-text) !important;
 	background: var(--tag-pablocolor) !important;
 	content: var(--tag-pablotext);
@@ -172,7 +172,7 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-22FtUu[src*="183210046212145152"] + h2.header-23xsNx {
+.avatar-2e8lTP[src*="183210046212145152"] + h2.header-2jRmjb {
 	content: var(--tag-pablotext);
 	color: var(--tag-pablocolor) !important;
 }
