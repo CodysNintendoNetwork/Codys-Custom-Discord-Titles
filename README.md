@@ -1,9 +1,9 @@
 # Cody's Custom Discord Badges
 Custom badges for discord!
 
-**Note:** This is for Discord Web version it would most likely work on the desktop version as well if you have something like BetterDiscord you would just need to copy the @import from the "Install Directly with Stylus" link below into css editor of BetterDiscord or whatever discord mod you use!
-
 ![](https://github.com/CodysNintendoRoom/Codys-Custom-Discord-Badges/blob/main/image.png?raw=true)
+
+**Note:** This is for Discord Web version it would most likely work on the desktop version as well if you have something like BetterDiscord you would just need to copy the @import from the "Install Directly with Stylus" link below into css editor of BetterDiscord or whatever discord mod you use!
 
 ## How to install
 1. Install Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne),[Firefox](https://addons.mozilla.org/firefox/addon/styl-us/), or [Opera](https://addons.opera.com/en/extensions/details/stylus/). 
