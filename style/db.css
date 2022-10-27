@@ -2,7 +2,7 @@
 
 /* Cody's Badge */
 .avatar-2e8lTP[src*="79738050996862976"] + h3 > span.timestamp-p1Df1m::before {
-	color: var(--black-text) !important;
+	color: var(--white-text) !important;
 	background: var(--tag-codycolor) !important;
 	content: var(--tag-codytext);
 	font-size: .8em;
