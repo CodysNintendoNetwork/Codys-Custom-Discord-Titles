@@ -180,3 +180,23 @@
 	content: var(--tag-nfgtext);
 	color: var(--tag-nfgcolor) !important;
 }
+
+/* Pretendo Network Dev's Badge */
+.avatar-2e8lTP[src*="186209288069316608"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="213196873165570048"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="215207013880168458"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="86323805500235776"] + h3 > span.timestamp-p1Df1m::before {
+	color: var(--white-text) !important;
+	background: var(--tag-pndevcolor) !important;
+	content: var(--tag-pndevtext);
+	font-size: .8em;
+	font-weight: bold;
+	height: 2.28em;
+	padding: .072rem .275rem;
+	border-radius: 3px;
+	text-transform: uppercase;
+	vertical-align: baseline;
+	margin-right: .50rem;
+	margin-left: -.25rem;
+}
+.avatar-2e8lTP[src*="186209288069316608"] + h3.header-2jRmjb, .avatar-2e8lTP[src*="213196873165570048"] + h3.header-2jRmjb, .avatar-2e8lTP[src*="215207013880168458"] + h3.header-2jRmjb, .avatar-2e8lTP[src*="86323805500235776"] + h3.header-2jRmjb {
+	content: var(--tag-pndevtext);
+	color: var(--tag-pndevcolor) !important;
+}
