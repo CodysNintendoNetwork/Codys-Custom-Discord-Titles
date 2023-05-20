@@ -1,7 +1,7 @@
 @import url('https://codysnintendoroom.github.io/Codys-Custom-Discord-Titles/style/stuff.css');
 @import url('https://codysnintendoroom.github.io/Codys-Custom-Discord-Titles/style/specialglowingnames.css');
 
-/* Cody's Badge */
+/* Cody's Title */
 .avatar-2e8lTP[src*="79738050996862976"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-codycolor) !important;
@@ -21,7 +21,7 @@
 	color: var(--tag-codycolor) !important;
 }
     
-/* Joseph's Badge */
+/* Joseph's Title */
 .avatar-2e8lTP[src*="129056956374712320"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-josephcolor) !important;
@@ -41,7 +41,7 @@
 	color: var(--tag-josephcolor) !important;
 }
     
-/* Falcon's Badge */
+/* Falcon's Title */
 .avatar-2e8lTP[src*="92816882226176000"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--black-text) !important;
 	background: var(--tag-falconcolor) !important;
@@ -61,7 +61,7 @@
 	color: var(--tag-falconcolor) !important;
 }
     
-/* Brandon's Badge */
+/* Brandon's Title */
 .avatar-2e8lTP[src*="83786687636836352"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--black-text) !important;
 	background: var(--tag-brandoncolor) !important;
@@ -81,7 +81,7 @@
 	color: var(--tag-brandoncolor) !important;
 }
 
-/* Bean's Badge */
+/* Bean's Title */
 .avatar-2e8lTP[src*="233675688522153985"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-beancolor) !important;
@@ -101,7 +101,7 @@
 	color: var(--tag-beancolor) !important;
 }
 
-/* Chadderz's Badge */
+/* Chadderz's Title */
 .avatar-2e8lTP[src*="254567795092619264"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-beancolor) !important;
@@ -121,7 +121,7 @@
 	color: var(--tag-beancolor) !important;
 }
 
-/* GeneSy's Badge */
+/* GeneSy's Title */
 .avatar-2e8lTP[src*="86143599288283136"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-genesycolor) !important;
@@ -141,7 +141,7 @@
 	color: var(--tag-genesycolor) !important;
 }
 
-/* Pablo's Badge */
+/* Pablo's Title */
 .avatar-2e8lTP[src*="183210046212145152"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-pablocolor) !important;
@@ -161,7 +161,7 @@
 	color: var(--tag-pablocolor) !important;
 }
 
-/* NintendoFanGirl's Badge */
+/* NintendoFanGirl's Title */
 .avatar-2e8lTP[src*="223651605122121728"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-nfgcolor) !important;
@@ -181,7 +181,7 @@
 	color: var(--tag-nfgcolor) !important;
 }
 
-/* Pretendo Network Dev's Badge */
+/* Pretendo Network Dev's Title */
 .avatar-2e8lTP[src*="186209288069316608"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="213196873165570048"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="215207013880168458"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="86323805500235776"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="120574439812235267"] + h3 > span.timestamp-p1Df1m::before, .avatar-2e8lTP[src*="217641738783686657"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--white-text) !important;
 	background: var(--tag-pndevcolor) !important;
