@@ -1,75 +1,77 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Discord Userstyle</title>
-  <link href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" rel="stylesheet"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-6SxI3WuNpCufCvqDq89sEaA+pXzp2yaiiFVuN4gwfskjnG4zyZP21mWoyydfrr/7I1mtAFI+1+X42pU8Hv8UuQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
     body {
-      font-family: sans-serif;
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
       margin: 0;
       padding: 0;
     }
     
-    header {
-      background-color: #333;
-      color: white;
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
       padding: 20px;
     }
     
     h1 {
-      font-size: 2em;
-      margin-top: 0;
+      color: #333;
+      text-align: center;
     }
     
     p {
-      margin-bottom: 10px;
+      color: #777;
+      text-align: center;
+      margin-top: 10px;
     }
     
     .form-container {
-      width: 400px;
-      margin: 0 auto;
+      text-align: center;
+      margin-top: 30px;
     }
     
-    input {
-      width: 100%;
-      margin-bottom: 10px;
-    }
-    
-    input[type="submit"] {
-      background-color: #000;
-      color: white;
-      font-weight: bold;
+    .form-container a {
+      display: inline-block;
+      background-color: #7289da;
+      color: #fff;
       padding: 10px 20px;
       border-radius: 5px;
+      text-decoration: none;
+      margin-top: 10px;
     }
     
-    .fa-user {
-      margin-right: 10px;
+    .icons {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
     }
     
-    .fa-check {
-      color: green;
+    .icons i {
+      font-size: 30px;
+      margin: 0 10px;
+      color: #777;
     }
   </style>
+  <title>Custom Titles for Discord</title>
 </head>
 <body>
-  <header>
-    <h1><i class="fa fa-user"></i> Discord Userstyle</h1>
-    <p>Add a custom title to your Discord name!</p>
-  </header>
-  <section>
-    <h2>How it works</h2>
-    <p>Our userstyle adds a custom title to your Discord name. You can choose the text color, background color, and font.</p>
-    <p>To get started, simply fill out the form below. We will add your account to the style as soon as possible.</p>
-  </section>
-  <form action="https://docs.google.com/forms/d/e/1FAIpQLSd--" method="post" class="form-container">
-    <input type="text" name="username" placeholder="Your Discord username">
-    <input type="color" name="text_color" placeholder="Text color">
-    <input type="color" name="background_color" placeholder="Background color">
-    <input type="submit" value="Submit">
-  </form>
-  <footer>
-    <p>Made with ❤️ by Bard</p>
-  </footer>
+  <div class="container">
+    <h1>Custom Titles for Discord</h1>
+    <p>Add a custom title by your name on Discord!</p>
+    <div class="form-container">
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLScLsRcSxgOrWvWrjkFUJAusv9yLt87b782Q60booMrv2D8Qvw/viewform">Request Your Custom Title</a>
+    </div>
+    <div class="icons">
+      <i class="fab fa-discord"></i>
+      <i class="fab fa-html5"></i>
+      <i class="fab fa-css3"></i>
+      <i class="fab fa-js"></i>
+      <i class="fas fa-paint-brush"></i>
+    </div>
+  </div>
 </body>
 </html>
