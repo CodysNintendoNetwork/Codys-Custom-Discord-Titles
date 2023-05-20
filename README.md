@@ -1,7 +1,7 @@
 # Cody's Custom Discord Titles
 Custom titles for discord!
 
-![](https://github.com/CodysNintendoNetwork/Codys-Custom-Discord-Titles/blob/main/image.png?raw=true)
+![](https://github.com/CodysNintendoNetwork/Codys-Custom-Discord-Titles/blob/main/screenshot.png?raw=true)
 
 **Note:** This is for Discord Web version it would most likely work on the desktop version as well if you have something like BetterDiscord you would just need to copy the @import from the "Install Directly with Stylus" link below into css editor of BetterDiscord or whatever discord mod you use!
 
