@@ -16,7 +16,7 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-2e8lTP[src*="79738050996862976"] + h3.header-2jRmjb {
+.avatar-2e8lTP[src*="79738050996862976"] + h3.header-2jRmjb, .avatar-2e8lTP[src*="79738050996862976"] + h1.nickname-3P1RuO {
 	content: var(--tag-codytext);
 	color: var(--tag-codycolor) !important;
 }
