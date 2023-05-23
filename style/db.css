@@ -3,7 +3,7 @@
 
 /* Cody's Title */
 .avatar-2e8lTP[src*="79738050996862976"] + h3 > span.timestamp-p1Df1m::before {
-	color: var(--white-text) !important;
+	color: var(--black-text) !important;
 	background: var(--tag-codycolor) !important;
 	content: var(--tag-codytext);
 	font-size: .8em;
