@@ -1,24 +1,24 @@
 :root {
 	--white-text: #fff;
 	--black-text: #000;
-	--tag-codycolor: linear-gradient(to right, #0e9287 , #0bae2f);
+	--tag-codycolor: linear-gradient(to right, #0f9b18 , #0b9eae);
     --tag-codytext: '👑 Animal Crossing Overlord';
-	--tag-josephcolor: #c7561a;
+	--tag-josephcolor: linear-gradient(to right, #c7aa1a , #c7561a);
     --tag-josephtext: '🧑‍⚖ Ace Attorney';
-	--tag-falconcolor: #cfcd3a;
+	--tag-falconcolor: linear-gradient(to right, #55c938 , #cfcd3a);
     --tag-falcontext: '🤖 R.O.B. Caretaker';
-	--tag-believecolor: #0f3863;
+	--tag-believecolor: linear-gradient(to right, #0f634f , #0f3863);
     --tag-believetext: '🫅🏻 True Believer';
-	--tag-brandoncolor: #238158;
+	--tag-brandoncolor: linear-gradient(to right, #236581 , #238158);
     --tag-brandontext: '😎 Pro Gamer';
-	--tag-beancolor: #f91010;
+	--tag-beancolor: linear-gradient(to right, #f98510 , #f91010);
     --tag-beantext: '🎮 CTGP Creator';
-	--tag-genesycolor: #4011fb;
+	--tag-genesycolor: linear-gradient(to right, #8a11fb , #4011fb);
     --tag-genesytext: '🧑‍💻 ACNH.Guide Dev';
-	--tag-pablocolor: #5a10f9;
+	--tag-pablocolor: linear-gradient(to right, #a710f9 , #5a10f9);
     --tag-pablotext: '🎮 CTGP-7 Creator';
-	--tag-nfgcolor: #640b75;
+	--tag-nfgcolor: linear-gradient(to right, #1d0b75 , #640b75);
     --tag-nfgtext: 'Nintendo Fan Girl';
-	--tag-pndevcolor: #6a0dad;
+	--tag-pndevcolor: linear-gradient(to right, #ad0d62 , #6a0dad);
     --tag-pndevtext: '🎮 Pretendo Dev';
 }
