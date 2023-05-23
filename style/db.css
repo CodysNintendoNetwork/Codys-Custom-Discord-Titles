@@ -82,7 +82,7 @@
 }
     
 /* Brandon's Title */
-.avatar-2e8lTP[src*="83786687636836352"] + h3 > span.timestamp-p1Df1m::before {
+.avatar-2e8lTP[src*="83786687636836352"] + h3 > span.timestamp-p1Df1m::before, .avatarDecoration-34OC0G[src*="83786687636836352"] + h3 > span.timestamp-p1Df1m::before {
 	color: var(--black-text) !important;
 	background: var(--tag-brandoncolor) !important;
 	content: var(--tag-brandontext);
@@ -96,7 +96,7 @@
 	margin-right: .50rem;
 	margin-left: -.25rem;
 }
-.avatar-2e8lTP[src*="83786687636836352"] + h3.header-2jRmjb {
+.avatar-2e8lTP[src*="83786687636836352"] + h3.header-2jRmjb, .avatarDecoration-34OC0G[src*="83786687636836352"] + h3.header-2jRmjb {
 	content: var(--tag-brandontext);
 	color: var(--tag-brandoncolor) !important;
 }
