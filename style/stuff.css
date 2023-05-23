@@ -1,7 +1,7 @@
 :root {
 	--white-text: #fff;
 	--black-text: #000;
-	--tag-codycolor: #209135;
+	--tag-codycolor: linear-gradient(to right, #0e9287 , #0bae2f);
     --tag-codytext: '👑 Animal Crossing Overlord';
 	--tag-josephcolor: #c7561a;
     --tag-josephtext: '🧑‍⚖ Ace Attorney';
